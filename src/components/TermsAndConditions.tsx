@@ -1,3 +1,4 @@
+// src\components\TermsAndConditions.tsx
 import { useState } from "react";
 
 const TermsAndConditions = () => {

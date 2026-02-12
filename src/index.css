@@ -1,3 +1,4 @@
+/* src\index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -33,6 +34,10 @@ a:hover {
   color: #fff;
   padding: 0.2rem 1rem;
   border-radius: 5px;
+}
+
+.btn:disabled{
+  background: #ccc;
 }
 
 .input {

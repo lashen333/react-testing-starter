@@ -1,3 +1,4 @@
+// src\components\ProductImageGallery.tsx
 const ProductImageGallery = ({ imageUrls }: { imageUrls: string[] }) => {
   if (imageUrls.length === 0) return null;
 
